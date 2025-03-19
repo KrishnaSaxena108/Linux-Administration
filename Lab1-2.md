@@ -77,3 +77,9 @@ ls
 #### 🖼️ Screenshots
 
 ![Screenshot 2025-03-19 110345](https://github.com/user-attachments/assets/c36730dd-7d77-4ff4-9313-13fc7e5b61bf)
+
+---
+
+## 🎯 Summary
+- touch command: Manually creates multiple empty files.
+- mkdir command: Creates multiple directories in a single line.
