@@ -90,3 +90,10 @@ echo {1..20..2}
 #### 🖼️ Screenshots
 
 ![Screenshot 2025-03-19 175508](https://github.com/user-attachments/assets/bc5a75e2-0bc2-4521-8a41-fe81f9907b50)
+
+---
+
+## 🎯 Summary
+- Viewed gedit command manual.
+- Used man -k to search ext4 tuning commands.
+- Learned brace expansion syntax and usage.
