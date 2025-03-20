@@ -81,5 +81,5 @@ ls
 ---
 
 ## 🎯 Summary
-- touch command: Manually creates multiple empty files.
-- mkdir command: Creates multiple directories in a single line.
+- `touch` command: Manually creates multiple empty files.
+- `mkdir` command: Creates multiple directories in a single line.
