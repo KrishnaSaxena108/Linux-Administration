@@ -94,6 +94,6 @@ echo {1..20..2}
 ---
 
 ## 🎯 Summary
-- Viewed gedit command manual.
-- Used man -k to search ext4 tuning commands.
-- Learned brace expansion syntax and usage.
+- Viewed `gedit` command manual.
+- Used `man -k` to search `ext4` tuning commands.
+- Learned **brace expansion** syntax and usage.
