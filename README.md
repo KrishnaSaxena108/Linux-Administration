@@ -54,7 +54,7 @@ Some of the key commands used:
 https://github.com/KrishnaSaxena108/Linux-Administration.git
 ```
    
-3. Navigate to the project directory:
+2. Navigate to the project directory:
 ```bash
 cd Linux-Administration
 ```
